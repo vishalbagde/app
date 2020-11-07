@@ -29,10 +29,10 @@ function App() {
               <Menus></Menus>
             </Col>
             <Col md={8}>
-              <Route path="/" component={Home} exact></Route>
-              <Route path="/add-course" component={AddCourse} exact></Route>
-              <Route path="/view-course" component={AllCourse} exact></Route>
-              <Route path="/game-view" component={GameView} exact></Route>
+              <Route path="/app" component={Home} exact></Route>
+              <Route path="/app/add-course" component={AddCourse} exact></Route>
+              <Route path="/app/view-course" component={AllCourse} exact></Route>
+              <Route path="/app/game-view" component={GameView} exact></Route>
             </Col>
           </Row>
         </Container>
