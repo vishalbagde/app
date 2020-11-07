@@ -1,6 +1,10 @@
 {
   "name": "my-app",
+<<<<<<< HEAD
   "homepage": "https://vishalbagde.github.io/react-app-demo",
+=======
+  "homepage": "https://vishalbagde.github.io/my-app",
+>>>>>>> d60ca9eb35b9ef0d876e2da8744b692a1360a94f
   "version": "0.1.0",
   "private": true,
   "dependencies": {
